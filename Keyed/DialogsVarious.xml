@@ -3,90 +3,90 @@
 
 
 
-  <Confirm>Confirm</Confirm>
-  <GoBack>Go back</GoBack>
-  <OK>OK</OK>
+  <Confirm>تأكيد</Confirm>
+  <GoBack>عودة</GoBack>
+  <OK>موافق</OK>
   
   <!-- Save/load -->
-  <SaveGameButton>Save</SaveGameButton>
-  <OverwriteButton>Overwrite</OverwriteButton>
-  <LoadGameButton>Load</LoadGameButton>
-  <ConfirmDelete>Really delete {0}?</ConfirmDelete>
-  <DeleteThisSavegame>Delete this savegame.</DeleteThisSavegame>
-  <SavedAs>Saved as {0}.</SavedAs>
-  <NeedAName>Please enter a name.</NeedAName>
-  <LoadingLongEvent>Loading...</LoadingLongEvent>
+  <SaveGameButton>حفظ</SaveGameButton>
+  <OverwriteButton>استبدال</OverwriteButton>
+  <LoadGameButton>تحميل</LoadGameButton>
+  <ConfirmDelete>متأكد من حذف{0}؟</ConfirmDelete>
+  <DeleteThisSavegame>حذف ملف الحفظ.</DeleteThisSavegame>
+  <SavedAs>تم الحفظ كـ{0} بنجاح.</SavedAs>
+  <NeedAName>الرجاء ادخال اسم.</NeedAName>
+  <LoadingLongEvent>جاري التحميل...</LoadingLongEvent>
   
   
   <!-- Colony naming-->
-  <NameColonyMessage>Everyone knows that you don't want to stay on this rock for long. But {0} is suggesting that you give the colony a name anyway.\n\nWhat should it be called?</NameColonyMessage>
-  <ColonyGainsName>The colony is now known as {0}.</ColonyGainsName>
-  <ColonyNameIsInvalid>That colony name isn't valid.</ColonyNameIsInvalid>
+  <NameColonyMessage>كلنا نعرف أنك لا تريد البقاء على هذه الصخرة لمدة طويلة. لكن {0} يقترح أن تسمي هذه المستوطنة بأي حال.\n\nماذا ستسميها؟</NameColonyMessage>
+  <ColonyGainsName>ستعرف هذه المستوطنة باسم {0} من الان.</ColonyGainsName>
+  <ColonyNameIsInvalid>هذا الاسم لا يصلح للمستوطنة.</ColonyNameIsInvalid>
 
   <!-- Zone naming -->
-  <ZoneGainsName>The zone is now called {0}.</ZoneGainsName>
-  <ZoneNameIsInvalid>Please enter a valid zone name.</ZoneNameIsInvalid>
+  <ZoneGainsName>هذه المنطقة اسمها {0} الان.</ZoneGainsName>
+  <ZoneNameIsInvalid>الرجاء ادخال اسم صالح للمنطقة.</ZoneNameIsInvalid>
 
   <!-- Save game incompatible warning -->
-  <SaveGameIncompatibleWarningText>Version mismatch: Map was saved with game version {0}, we are running version {1}.\n\n Loading this save will probably cause bugs and crashes.</SaveGameIncompatibleWarningText>
-  <SaveGameIncompatibleWarningTitle>Save game incompatibility</SaveGameIncompatibleWarningTitle>
+  <SaveGameIncompatibleWarningText>نسخة اللعبة مختلفة:  تم الحفظ بنسخة اللعبة رقم {0} سابقا, لكنك تستخدم النسخة رقم {1} حاليا.\n\n تحميل هذا الملف سيتسبب غالبا في أخطاء و مشاكل في اللعبة.</SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningTitle>نسخة اللعبة غير متوافقة مع الملف</SaveGameIncompatibleWarningTitle>
   
   <!-- Resolution change dialog -->
-  <ConfirmResolutionChange>You've changed your resolution. Does the new one work okay?\n\nAuto-reverting in {0}...</ConfirmResolutionChange>
-  <ResolutionKeep>Keep</ResolutionKeep>
-  <ResolutionRevert>Revert</ResolutionRevert>
+  <ConfirmResolutionChange>لقد قمت بتغيير أبعاد الشاشة. هل تعمل هذه الاعدادات جيدا؟\n\nسيتم العودة للاعدادات السابقة خلال {0} ثانية...</ConfirmResolutionChange>
+  <ResolutionKeep>إبقاء</ResolutionKeep>
+  <ResolutionRevert>عودة</ResolutionRevert>
 
   <!-- Overview -->
-  <OverviewOf>Overview of {0}</OverviewOf>
+  <OverviewOf>استعراض لـ{0}</OverviewOf>
 
   <!-- Research -->
-  <Research>Research</Research>
-  <Researched>Researched</Researched>
-  <Unresearched>Unresearched</Unresearched>
-  <Finished>Finished</Finished>
-  <InProgress>In Progress</InProgress>
-  <ResearchMenuWithoutBench>Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at and choose research projects now.</ResearchMenuWithoutBench>
+  <Research>تطوير</Research>
+  <Researched>تم التطوير</Researched>
+  <Unresearched>غير مطور</Unresearched>
+  <Finished>منته</Finished>
+  <InProgress>جاري التطوير</InProgress>
+  <ResearchMenuWithoutBench>لن يستطيع المواطنون البدء بالتطوير حتى تقوم ببناء مشغل التطوير. \n\nلكن باستطاعتك اختيار مشروع التطوير على اي حال.</ResearchMenuWithoutBench>
   
   
   <!-- Advanced game start options -->
-  <MapSizePerformanceWarning>WARNING: Performance may degrade at larger map sizes unless your computer is quite powerful.\n\nIf you have a weak machine, choose Small.\n\nLudeonicrous size is untested and will almost certainly not play well.</MapSizePerformanceWarning>
-  <MapSize>Map size</MapSize>
-  <MapSizeDesc>{0}x{0} ({1} squares)</MapSizeDesc>
-  <MapSizeSmall>Small</MapSizeSmall>
-  <MapSizeMedium>Medium</MapSizeMedium>
-  <MapSizeLarge>Large</MapSizeLarge>
-  <MapSizeExtreme>Ludeonicrous</MapSizeExtreme>
+  <MapSizePerformanceWarning>تحذير: قد يكون الاداء ضعيفا عند استخدام خريطة كبيرة ما لم يكن جهازك قويا بشكل كاف.\n\nإذا كان جهازك ضعيفا, اختر خريطة صغيرة.\n\nالحجم الهائل لم يتم تجريبه و سيتسبب بإشكالات بالتأكيد..</MapSizePerformanceWarning>
+  <MapSize>حجم الخريطة</MapSize>
+  <MapSizeDesc>{0}x{0} ({1} مربعات)</MapSizeDesc>
+  <MapSizeSmall>صغير</MapSizeSmall>
+  <MapSizeMedium>متوسط</MapSizeMedium>
+  <MapSizeLarge>كبير</MapSizeLarge>
+  <MapSizeExtreme>هائل</MapSizeExtreme>
 
 
 
   <!-- Bill config -->
-  <Suspended>Suspended</Suspended>
-  <NotSuspended>Not suspended</NotSuspended>
-  <SuspendedAllCaps>SUSPENDED</SuspendedAllCaps>
-  <RepeatCount>Repeat: {0}</RepeatCount>
-  <Forever>Forever</Forever>
-  <IngredientSearchRadius>Ingredient search radius</IngredientSearchRadius>
-  <TargetCount>Make until you have: {0}</TargetCount>
-  <Infinite>Infinite</Infinite>
-  <RecipeCannotHaveTargetCount>(This recipe cannot have a target count because it has multiple or unpredictable products.)</RecipeCannotHaveTargetCount>
-  <PermittedIngredients>Permitted ingredients</PermittedIngredients>
-  <MinimumSkills>Minimum skills:</MinimumSkills>
-  <DoXTimes>Do X times</DoXTimes>
-  <DoUntilYouHaveX>Do until you have X</DoUntilYouHaveX>
-  <DoForever>Do forever</DoForever>
-  <BillRepeatTargetCountShort>To {0}</BillRepeatTargetCountShort>
+  <Suspended>متوقف</Suspended>
+  <NotSuspended>غير متوقف</NotSuspended>
+  <SuspendedAllCaps>متـوقــف</SuspendedAllCaps>
+  <RepeatCount>كرر: {0} مرة</RepeatCount>
+  <Forever>تكرار غير منته</Forever>
+  <IngredientSearchRadius>منطقة الحصول على المواد</IngredientSearchRadius>
+  <TargetCount>كرر حتى الحصول على: {0} عنصر</TargetCount>
+  <Infinite>لانهائي</Infinite>
+  <RecipeCannotHaveTargetCount>(هذه الوصفة لا يمكن ان تحوي هدفا للعدد لأنها قد تكون متعددة او غير متوقعة النتيجة)</RecipeCannotHaveTargetCount>
+  <PermittedIngredients>المواد المسموح استعمالها</PermittedIngredients>
+  <MinimumSkills>الحد الادنى للخبرة:</MinimumSkills>
+  <DoXTimes>كرر عدد محدد من المرات</DoXTimes>
+  <DoUntilYouHaveX>كرر حتى يصبح لديك </DoUntilYouHaveX>
+  <DoForever>كرر بشكل لانهائي</DoForever>
+  <BillRepeatTargetCountShort> {0} عنصر</BillRepeatTargetCountShort>
   
   
   <!-- Trade -->
-  <YourTradeableSilver>Your tradeable silver: {0}</YourTradeableSilver>
-	<YourTradeableSilverTip>You can only trade with silver that is near an orbital trade beacon and not under a roof.</YourTradeableSilverTip>
+  <YourTradeableSilver>تملك من الفضة: {0} جاهز للمتاجرة</YourTradeableSilver>
+	<YourTradeableSilverTip>يمكنك فقط المتاجرة بالفضة القريبة من منارة التجارة المدارية.</YourTradeableSilverTip>
 
   <!-- Comms -->
-  <SocialSkillIs>Social skill: {0}</SocialSkillIs>
+  <SocialSkillIs>الخبرة الاجتماعية {0} تؤثر بالاسعار</SocialSkillIs>
 
 	
 	<!--Other-->
-	<ResearchFinished>Research finished: {0}</ResearchFinished>
-	<ResearchScreen>Research Screen</ResearchScreen>
+	<ResearchFinished>التطورات المنتهية: {0} مشاريع</ResearchFinished>
+	<ResearchScreen>شاشة التطوير</ResearchScreen>
 	
 </LanguageData>
