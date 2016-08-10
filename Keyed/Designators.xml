@@ -1,82 +1,85 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
-  <DesignatorCancel>Cancel</DesignatorCancel>
-  <DesignatorCancelDesc>Cancel designated building, mining, hauling, harvesting, and all other designations.</DesignatorCancelDesc>
+  <DesignatorCancel>إلغاء</DesignatorCancel>
+  <DesignatorCancelDesc>إلغاء مؤشرات اوامر البناء, الحفر, النقل, الحصاد و كل مؤشرات الاوامر الاخرى.</DesignatorCancelDesc>
 
-  <DesignatorCutPlants>Cut plants</DesignatorCutPlants>
-  <DesignatorCutPlantsDesc>Marks plants to be cut and destroyed. The plant will be completely removed, and any food will be harvested.</DesignatorCutPlantsDesc>
+  <DesignatorCutPlants>قطع النبات</DesignatorCutPlants>
+  <DesignatorCutPlantsDesc> إتأشير النبتة للقص. سيتم قص النبتة و إزالتها, اي نبتة تحوي على غذاء سيتم حصدها. </DesignatorCutPlantsDesc>
 
-  <DesignatorDeconstruct>Deconstruct</DesignatorDeconstruct>
-  <DesignatorDeconstructDesc>Deconstruct buildings and reclaim part of their resources.</DesignatorDeconstructDesc>
+  <DesignatorDeconstruct>هدم</DesignatorDeconstruct>
+  <DesignatorDeconstructDesc>تأشير بناء أو اثاث للهدم. سيتم استرداد بعض المواد التي استخدمت في صناعته.</DesignatorDeconstructDesc>
 
-  <DesignatorHarvestFood>Harvest food</DesignatorHarvestFood>
-  <DesignatorHarvestFoodDesc>Marks plants to be harvested for food. Food will be harvested as possible from the plant, but the plant itself will remain.</DesignatorHarvestFoodDesc>
+  <DesignatorHarvestFood>حصاد</DesignatorHarvestFood>
+  <DesignatorHarvestFoodDesc>تاشير النتة للحصاد. سيتم الحصول على الغذاء من النبتة إن أمكن, لكن لن يتم إزالة النبتة.</DesignatorHarvestFoodDesc>
 
-  <DesignatorHarvestWood>Chop wood</DesignatorHarvestWood>
-  <DesignatorHarvestWoodDesc>Marks trees to be chopped down for wood.</DesignatorHarvestWoodDesc>
+  <DesignatorHarvestWood>قطع الخشب</DesignatorHarvestWood>
+  <DesignatorHarvestWoodDesc>تاشير الاشجار ليتم قطعها من أجل الخشب.</DesignatorHarvestWoodDesc>
 
-  <DesignatorHaulThings>Haul things</DesignatorHaulThings>
-  <DesignatorHaulThingsDesc>Mark debris and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable.</DesignatorHaulThingsDesc>
-  <NothingToHaulHere>Nothing to haul here.</NothingToHaulHere>
-  <MustHaulHaulables>Can only designate haulable non-automatic things (like debris).</MustHaulHaulables>
+  <DesignatorHaulThings>نقل</DesignatorHaulThings>
+  <DesignatorHaulThingsDesc>تأشير الركام و أشياء أخرى ليتم نقلها إلى المكبات. لا ينطبق هذا الامر على الجثث أو الطعام حيث يتم نقلها دائما.</DesignatorHaulThingsDesc>
+  <NothingToHaulHere>لا يوجد شيء للنقل هنا.</NothingToHaulHere>
+  <MustHaulHaulables>يمكن فقط تحديد الأشياء التي لا يتم نقلها تلقائيا كالركام.</MustHaulHaulables>
 
-  <DesignatorHunt>Hunt</DesignatorHunt>
-  <DesignatorHuntDesc>Mark animals to be hunted by your hunters.</DesignatorHuntDesc>
+  <DesignatorHunt>صيد</DesignatorHunt>
+  <DesignatorHuntDescتاشير الحيوانات ليتم صيدها من قبل الصيادين.</DesignatorHuntDesc>
 
-  <DesignatorMine>Mine</DesignatorMine>
-  <DesignatorMineDesc>Designate areas of rock to be mined out.</DesignatorMineDesc>
+  <DesignatorMine>حفر</DesignatorMine>
+  <DesignatorMineDesc>تاشير مناطق من الصخر ليتم حفرها.</DesignatorMineDesc>
 
-  <DesignatorPlan>Plan</DesignatorPlan>
-  <DesignatorPlanDesc>Place planning designations. These don't do anything except help you plan future expansions.</DesignatorPlanDesc>
+  <DesignatorPlan>تخطيط</DesignatorPlan>
+  <DesignatorPlanDesc>وضع مؤشرات تخطيط. هذه المؤشرات لا تعمل شيئا سوى مساعدتك في تخطيط مناطق البناء المستقبلية.</DesignatorPlanDesc>
 
-  <DesignatorPlanRemove>Remove plans</DesignatorPlanRemove>
-  <DesignatorPlanRemoveDesc>Remove planning designations.</DesignatorPlanRemoveDesc>
+  <DesignatorPlanRemove>إزالة التخطيط</DesignatorPlanRemove>
+  <DesignatorPlanRemoveDesc>إزالة مؤشرات التخطيط.</DesignatorPlanRemoveDesc>
 
-  <DesignatorHomeRegionAdd>Add Home Region</DesignatorHomeRegionAdd>
-  <DesignatorHomeRegionAddDesc>Colonists will repair buildings, clean floors, and extinguish fires only in the home region.</DesignatorHomeRegionAddDesc>
+  <DesignatorHomeRegionAdd>توسيع المنطقة البيتية</DesignatorHomeRegionAdd>
+  <DesignatorHomeRegionAddDesc>يقوم المواطنون بالتنظيف, الاصلاح و إطفاء الحرائق ضمن المنطقة البيتية فقط.</DesignatorHomeRegionAddDesc>
 
-  <DesignatorHomeRegionRemove>Remove Home Region</DesignatorHomeRegionRemove>
-  <DesignatorHomeRegionRemoveDesc>Removes a home region. Colonists will no longer clean, repair, or extinguish fires here.</DesignatorHomeRegionRemoveDesc>
+  <DesignatorHomeRegionRemove>إزالة من المنطقة البيتية</DesignatorHomeRegionRemove>
+  <DesignatorHomeRegionRemoveDesc>إزالة المنطقة من المنطقة البيتية. لن يقوم المواطنون بالتنظيف, الاصلاح أو إطفاء الحرائق في هذه المنطقة بعد الان.</DesignatorHomeRegionRemoveDesc>
 
-  <DesignatorRegionNoRoofAdd>Create No Roof Region</DesignatorRegionNoRoofAdd>
-  <DesignatorRegionNoRoofAddDesc>Create a region where roofs will not generate. Colonists will also tear down existing roofs here.</DesignatorRegionNoRoofAddDesc>
+  <DesignatorRegionNoRoofAdd>تحديد منطقة غير مسقوفة</DesignatorRegionNoRoofAdd>
+  <DesignatorRegionNoRoofAddDesc>تحديد منطقة لن يتم بناء سقوف فيها. سيقوم المواطنون أيضا بإزالة السقوف الموجودة مسبقا في هذه المنطقة.</DesignatorRegionNoRoofAddDesc>
 
-  <DesignatorRegionNoRoofRemove>Remove No Roof Region</DesignatorRegionNoRoofRemove>
-  <DesignatorRegionNoRoofRemoveDesc>Removes a no-roof region. Roofs will generate here, and existing roofs will not be torn down.</DesignatorRegionNoRoofRemoveDesc>
+  <DesignatorRegionNoRoofRemove>إزالة منطقة غير مسقوفة</DesignatorRegionNoRoofRemove>
+  <DesignatorRegionNoRoofRemoveDesc>إزالة منطقة غير مسقوفة. سيتم بناء سقوف في هذه المنطقة, و السقوف الموجودة مسبقا لن يتم إزالتها.</DesignatorRegionNoRoofRemoveDesc>
 
-  <DesignatorGrowingZoneDesc>Create a zone where your colonists will try to grow a certain kind of plant.</DesignatorGrowingZoneDesc>
+  <DesignatorGrowingZone>تحديد منطقة زراعية</DesignatorGrowingZone>
+  <DesignatorGrowingZoneDesc>تحديد منطقة سيقوم فيها المواطنون بزراعة نوع معين من النبات.</DesignatorGrowingZoneDesc>
 
-  <DesignatorZoneCreateStorageResourcesDesc>Create a stockpile where your colonists will store resources.\nThis tool can also expand any existing stockpile.</DesignatorZoneCreateStorageResourcesDesc>
+  <DesignatorZoneCreateStorageResources>تحديد منطقة تخزين</DesignatorZoneCreateStorageResources>
+  <DesignatorZoneCreateStorageResourcesDesc>تحديد منطقة سيقوم المواطنون بتخزين المواد فيها\nيمكن استخدام هذه الاداة لتوسيع أي منطقة تخزين موجودة مسبقا.</DesignatorZoneCreateStorageResourcesDesc>
 
-  <DesignatorZoneCreateStorageDumpingDesc>Create a stockpile where your colonists will store junk.\nThis tool can also expand any existing stockpile.</DesignatorZoneCreateStorageDumpingDesc>
+  <DesignatorZoneCreateStorageDumpingc>تحديد منطقة لرمي الركام</DesignatorZoneCreateStorageDumping>
+  <DesignatorZoneCreateStorageDumpingDesc>تحديد منطقة سيستخدمها المواطنون لرمي الركام و النفايات.\nيمكن استخدام هذه الاداة لتوسيع أي منطقة موجودة مسبقا.</DesignatorZoneCreateStorageDumpingDesc>
 
 
-  <DesignatorZoneDelete>Delete zones</DesignatorZoneDelete>
-  <DesignatorZoneDeleteDesc>Remove zones, like stockpile zones or growing zones.</DesignatorZoneDeleteDesc>
+  <DesignatorZoneDelete>إزالة منطقة</DesignatorZoneDelete>
+  <DesignatorZoneDeleteDesc>إلغاء منطقة, كمنطقة تخزين أو زراعة أو غيرها</DesignatorZoneDeleteDesc>
   
   
   
   <!-- placement of blueprints -->
-  <TooCloseToMapEdge>Too close to map edge.</TooCloseToMapEdge>
-  <OutOfBounds>Out of bounds.</OutOfBounds>
-  <CannotPlaceInUndiscovered>Cannot place in undiscovered areas.</CannotPlaceInUndiscovered>
-  <InteractionSpotBlocked>Interaction spot is blocked.</InteractionSpotBlocked>
-  <InteractionSpotWillBeBlocked>Interaction location will be blocked.</InteractionSpotWillBeBlocked>
-  <WouldBlockInteractionSpot>{0} would block {1}'s interaction square.</WouldBlockInteractionSpot>
-  <TerrainIsAlready>The terrain here is already {0}.</TerrainIsAlready>
+  <TooCloseToMapEdge>قريب جدا من حافة الخريطة</TooCloseToMapEdge>
+  <OutOfBounds>خارج الخريطة</OutOfBounds>
+  <CannotPlaceInUndiscovered>لا يمنكنك وضع هذا في منطقة غير مستكشفة.</CannotPlaceInUndiscovered>
+  <InteractionSpotBlocked>نقطة الاستخدام مسدودة.</InteractionSpotBlocked>
+  <InteractionSpotWillBeBlocked>سيؤدي هذا إلى سد نقطة الاستعمال.</InteractionSpotWillBeBlocked>
+  <WouldBlockInteractionSpot> سيقوم {0} بسد نقطة الاستعمال لـ{1} إذا وضعته هنا.</WouldBlockInteractionSpot>
+  <TerrainIsAlready>المنطقة هنا هي  {0} بالاصل.</TerrainIsAlready>
   <IdenticalThingExists>Identical thing already exists here.</IdenticalThingExists>
-  <IdenticalBlueprintExists>Identical blueprint already exists here.</IdenticalBlueprintExists>
-  <TerrainCannotSupport>The terrain here cannot support this.</TerrainCannotSupport>
-  <SpaceAlreadyOccupied>Space already occupied.</SpaceAlreadyOccupied>
+  <IdenticalBlueprintExists>مخطط بناء  مطابق موجود هنا بالاصل.</IdenticalBlueprintExists>
+  <TerrainCannotSupport>نوعية الارض هنا لا تسمح ببناء هذا.</TerrainCannotSupport>
+  <SpaceAlreadyOccupied>المنطقة هنا محجوزة مسبقا.</SpaceAlreadyOccupied>
 
   <!-- placement of zones -->
-  <ExpandOrCreateZone>Expand {0} or\nCreate new {1}</ExpandOrCreateZone>
-  <CreateNewZone>Create new {0}</CreateNewZone>
+  <ExpandOrCreateZone>وسع {0} أو\nحدد {1} جديدة</ExpandOrCreateZone>
+  <CreateNewZone>حدد {0} جديدة</CreateNewZone>
   
   
   <!-- desc helpers -->
-  <TransmitsPower>Transmits power</TransmitsPower>
+  <TransmitsPower>قم بتوصيل الطاقة.</TransmitsPower>
 
 
 </LanguageData>
